@@ -1,2 +1,7 @@
 Hii
+<<<<<<< HEAD
 This is the first file
+=======
+This is Kunal Jadhav
+hello
+>>>>>>> 5a8ca27d89e49c726dc9f69e360899c5ed7d2673
