@@ -1,0 +1,5 @@
+lalalala>>BB2.txt
+echo lalalala>>BB2.txt
+
+echo lalalala
+lalalala
